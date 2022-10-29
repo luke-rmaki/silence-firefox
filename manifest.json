@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "silence-firefox",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(30, 36, 48)",
+      "toolbar_text": "rgb(200, 250, 253)",
+      "frame": "rgb(12, 16, 24)",
+      "tab_background_text": "rgb(206, 193, 229)",
+      "toolbar_field": "rgb(12, 16, 24)",
+      "toolbar_field_text": "rgb(177, 197, 255)",
+      "tab_line": "rgb(0, 114, 228)",
+      "popup": "rgb(19, 24, 34)",
+      "popup_text": "rgb(200, 250, 253)",
+      "button_background_active": "rgb(52, 62, 79)",
+      "button_background_hover": "rgb(39, 47, 60)",
+      "icons_attention": "rgb(98, 102, 183)",
+      "icons": "rgb(122, 164, 255)",
+      "popup_border": "rgb(0, 114, 228)",
+      "popup_highlight_text": "rgb(200, 250, 253)",
+      "popup_highlight": "rgb(0, 114, 228)",
+      "sidebar_border": "rgb(200, 250, 253)",
+      "sidebar_highlight": "rgb(50, 60, 77)",
+      "sidebar_text": "rgb(200, 250, 253)",
+      "sidebar": "rgb(33, 41, 54)",
+      "tab_text": "rgb(200, 250, 253)",
+      "toolbar_field_border_focus": "rgb(0, 114, 228)",
+      "toolbar_field_highlight_text": "rgb(50, 60, 77)",
+      "toolbar_field_highlight": "rgb(212, 222, 255)",
+      "toolbar_field_text_focus": "rgb(212, 222, 255)",
+      "toolbar_vertical_separator": "rgb(0, 114, 228)",
+      "tab_loading": "rgb(0, 114, 228)"
+    }
+  }
+}
